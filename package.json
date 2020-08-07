@@ -3,11 +3,11 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Manoj Jangid",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Manoj Jangid",
 	"engines": {
 		"node": "8.11.2"
 	},
